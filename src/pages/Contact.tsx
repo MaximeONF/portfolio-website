@@ -296,7 +296,7 @@ export default function Contact() {
                 <div className="absolute inset-0 bg-gradient-to-r from-[#4ECDC4] to-[#44A8A0] rounded-2xl blur-xl opacity-0 group-hover:opacity-20 transition-opacity"></div>
                 <div className="relative bg-gradient-to-br from-white/10 to-white/5 backdrop-blur-xl border border-white/20 p-8 rounded-2xl">
                   <div className="flex items-center space-x-3 mb-4">
-                    <div className="w-12 h-12 bg-gradient-to-br from-[#FFD93D] to-[#FFA07A] rounded-xl flex items-center justify-center shadow-[0_0_30px_rgba(255,217,61,0.4)]">
+                    <div className="w-12 h-12 bg-gradient-to-br from-[#FFD93D] to-[#FFA07A] rounded-xl flex items-center justify-center shadow-[0_0_40px_rgba(255,217,61,0.4)]">
                       <Clock size={24} className="text-white" />
                     </div>
                     <h3 className="text-xl font-bold text-white">Temps de réponse</h3>

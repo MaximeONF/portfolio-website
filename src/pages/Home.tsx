@@ -185,6 +185,8 @@ export default function Home() {
             </div>
           </div>
         </div>
+
+        <div className="absolute bottom-0 left-0 right-0 h-32 bg-gradient-to-t from-black/50 to-transparent pointer-events-none"></div>
       </section>
 
       <section className="py-32 bg-gradient-to-br from-[#16213E] via-[#1A1A2E] to-[#0F0F0F] relative overflow-hidden">
